@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 145, 0);
+}
+    
+h1 {
+    color:red;
+}
+#what-css{
+    font: size 16px;
+
+}
+
+p{
+ font: size 16px;
+ color:aqua   
+}
+
+ol {
+    border: 1px solid green;
+}
+
+.inline{
+    color: blueviolet;
+}
+.firstname,.lastname{
+    background-color: blueviolet;
+    border : none;
+
+}
